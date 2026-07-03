@@ -1,2 +1,1 @@
-
-![](clown-divider.png)
+![](divider.png)
