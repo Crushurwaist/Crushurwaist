@@ -1,1 +1,1 @@
-![](divider.png)
+![](divider.png.png)
