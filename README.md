@@ -3,4 +3,5 @@
 <p align="center">
 
  ![](buratino-pierrot.gif)
-</p>
+
+</p> align="center">
