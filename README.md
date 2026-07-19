@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="divider.png.png" width="450" alt="Ticket banner">
+  <img src="divider.png.png" width="500" alt="Ticket banner">
 </p><p align="center">
-  <img src="buratino-pierrot.gif" width="250" alt="Pierrot">
+  <img src="buratino-pierrot.gif" width="480" alt="Pierrot">
 </p>
