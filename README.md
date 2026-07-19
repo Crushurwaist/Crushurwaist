@@ -4,4 +4,4 @@
 
  ![](buratino-pierrot.gif)
 
-</p> align="center">
+<p align="center">
