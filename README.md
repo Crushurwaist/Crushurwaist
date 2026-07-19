@@ -1,8 +1,3 @@
-<p align="center">
-
- **Honk Honk** 
-
-</p>
 
 <p align="center">
  Im a bit dumb
