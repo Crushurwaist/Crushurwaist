@@ -7,9 +7,8 @@
 
 <p align="center">
   ✦ ✦ ✦
-</p>
-</p><p align="center">
+<p align="center">
   🎟️ <a href="https://clownfie.atabook.org/">ata</a>
-
+   . 
   🎭 <a href="https://crushurwaist.straw.page">straw</a>
 </p>
